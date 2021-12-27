@@ -1,7 +1,7 @@
 import React from "react";
 import { useMoralis } from "react-moralis";
 
-function App() {
+export default function App() {
   const { authenticate, isAuthenticated, user } = useMoralis();
 
   if (!isAuthenticated) {
