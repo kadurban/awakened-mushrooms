@@ -1,8 +1,8 @@
 # Running the app
-`git clone https://github.com/kadurban/awakened-mushrooms`
+1 - `git clone https://github.com/kadurban/awakened-mushrooms`
 
-Run following commands inside cloned repo directory
+2 - `cd awakened-mushrooms`
 
-`npm install`
+3 - `npm install`
 
-`npm run start`
+4 - `npm run start`
