@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
 import { MoralisProvider } from "react-moralis";
+import App from './App';
 import './index.css';
 
 const SERVER_URL = 'https://28lv8iyzigzr.usemoralis.com:2053/server';
